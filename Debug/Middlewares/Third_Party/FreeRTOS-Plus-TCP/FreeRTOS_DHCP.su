@@ -1,0 +1,12 @@
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:174:23:vCastPointerTo_DHCPMessage_IPv4_t	16	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:182:23:vCastConstPointerTo_DHCPMessage_IPv4_t	16	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:268:16:xIsDHCPSocket	24	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:290:18:eGetDHCPState	4	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:301:10:vDHCPProcess	24	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:707:17:prvCloseDHCPSocket	8	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:722:18:prvCreateDHCPSocket	32	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:763:17:prvInitialiseDHCP	8	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:797:24:prvProcessDHCPReplies	80	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:1061:22:prvCreatePartDHCPMessage	64	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:1159:23:prvSendDHCPRequest	48	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/FreeRTOS_DHCP.c:1226:23:prvSendDHCPDiscover	40	static

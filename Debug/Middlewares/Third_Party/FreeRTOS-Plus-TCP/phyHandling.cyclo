@@ -1,0 +1,9 @@
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:123:19:xHas_1F_PHYSPCS	2
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:154:19:xHas_19_PHYCR	3
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:176:6:vPhyInitialise	1
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:188:12:xPhyDiscover	5
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:232:17:xPhyReset	8
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:306:12:xPhyConfigure	21
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:473:12:xPhyFixedValue	5
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:509:12:xPhyStartAutoNegotiation	23
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/phyHandling.c:699:12:xPhyCheckLinkStatus	10

@@ -1,0 +1,10 @@
+../USB_DEVICE/App/usb_device.c:75:6:usb_init	4
+../USB_DEVICE/App/usb_device.c:101:6:usb_deinit	1
+../USB_DEVICE/App/usb_device.c:113:13:on_usbOutRxPacket	1
+../USB_DEVICE/App/usb_device.c:127:13:on_usbInTxCplt	1
+../USB_DEVICE/App/usb_device.c:139:9:usb_output	2
+../USB_DEVICE/App/usb_device.c:156:6:usb_forceHostEnum	2
+../USB_DEVICE/App/usb_device.c:196:10:usb_getTxFrames	1
+../USB_DEVICE/App/usb_device.c:207:10:usb_getTxData	1
+../USB_DEVICE/App/usb_device.c:218:10:usb_getRxFrames	1
+../USB_DEVICE/App/usb_device.c:229:10:usb_getRxData	1

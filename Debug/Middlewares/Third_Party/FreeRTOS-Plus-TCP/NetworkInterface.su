@@ -1,0 +1,15 @@
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:354:13:vClearTXBuffers	16	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:402:12:xNetworkInterfaceInitialise	24	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:527:13:prvDMATxDescListInit	16	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:576:13:prvDMARxDescListInit	16	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:638:13:prvMACAddressConfig	32	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:660:12:xNetworkInterfaceOutput	40	static,ignoring_inline_asm
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:786:19:xMayAcceptPacket	24	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:872:13:prvPassEthMessages	24	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:907:19:prvNetworkInterfaceInput	40	static,ignoring_inline_asm
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1064:12:xSTM32_PhyRead	32	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1089:12:xSTM32_PhyWrite	32	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1114:6:vMACBProbePhy	8	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1122:13:prvEthernetUpdateConfig	16	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1220:6:vNetworkInterfaceAllocateRAMToBuffers	24	static
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1239:13:prvEMACHandlerTask	32	static

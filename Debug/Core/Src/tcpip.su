@@ -1,0 +1,17 @@
+../Core/Src/tcpip.c:138:6:tcpip_init	16	static
+../Core/Src/tcpip.c:156:6:tcpip_deinit	8	static
+../Core/Src/tcpip.c:173:6:vApplicationIPNetworkEventHook	16	static
+../Core/Src/tcpip.c:205:13:uxRand	8	static
+../Core/Src/tcpip.c:216:19:xApplicationGetRandomNumber	16	static
+../Core/Src/tcpip.c:233:17:ulApplicationGetNextSequenceNumber	24	static
+../Core/Src/tcpip.c:251:13:pcApplicationHostnameHook	4	static
+../Core/Src/tcpip.c:263:13:pcApplicationHostnameHookCAP	4	static
+../Core/Src/tcpip.c:362:9:tcpip_output	16	static
+../Core/Src/tcpip.c:390:13:tcpip_macTask	40	static
+../Core/Src/tcpip.c:487:13:tcpip_invokeMacTask	8	static
+../Core/Src/tcpip.c:507:6:vApplicationMallocFailedHook	4	static
+../Core/Src/tcpip.c:523:6:vApplicationPingReplyHook	16	static
+../Core/Src/tcpip.c:550:13:tcpip_rngInit	8	static
+../Core/Src/tcpip.c:561:13:tcpip_rngDeInit	4	static
+../Core/Src/tcpip.c:572:17:tcpip_getRandomNumber	8	static
+../Core/Src/tcpip.c:584:9:tcpip_enqueue	24	static

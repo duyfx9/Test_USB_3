@@ -1,0 +1,15 @@
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:354:13:vClearTXBuffers	5
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:402:12:xNetworkInterfaceInitialise	6
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:527:13:prvDMATxDescListInit	4
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:576:13:prvDMARxDescListInit	3
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:638:13:prvMACAddressConfig	1
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:660:12:xNetworkInterfaceOutput	6
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:786:19:xMayAcceptPacket	3
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:872:13:prvPassEthMessages	2
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:907:19:prvNetworkInterfaceInput	9
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1064:12:xSTM32_PhyRead	2
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1089:12:xSTM32_PhyWrite	2
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1114:6:vMACBProbePhy	1
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1122:13:prvEthernetUpdateConfig	8
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1220:6:vNetworkInterfaceAllocateRAMToBuffers	2
+../Middlewares/Third_Party/FreeRTOS-Plus-TCP/NetworkInterface.c:1239:13:prvEMACHandlerTask	8
